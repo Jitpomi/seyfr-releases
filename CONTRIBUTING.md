@@ -39,7 +39,7 @@ While this repository contains releases and community resources, the main Seyfr 
 
 ## Contact
 
-- **Email**: hello@jitpomi.com
+- **Email**: dev@jitpomi.com
 - **Security**: security@jitpomi.com
 - **Discussions**: [GitHub Discussions](https://github.com/Jitpomi/seyfr-releases/discussions)
 
