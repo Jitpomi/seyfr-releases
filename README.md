@@ -83,7 +83,7 @@ Every contribution — big or small — helps keep privacy-first tools accessibl
 - **🐛 Report Issues** - [Open an issue](https://github.com/Jitpomi/seyfr-releases/issues)
 - **💬 Discussions** - [Join the conversation](https://github.com/Jitpomi/seyfr-releases/discussions)
 - **📧 Contact** - [dev@jitpomi.com](mailto:dev@jitpomi.com)
-- **🐦 Twitter** - [@jitpomi](https://twitter.com/jitpomi)
+- **🐦 X (Twitter)** - [@ssali_samson](https://x.com/ssali_samson)
 
 ## 📄 License
 
