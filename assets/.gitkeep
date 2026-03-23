@@ -1,0 +1,15 @@
+# Assets Directory
+
+This directory contains visual assets for the Seyfr project:
+
+## Structure
+- `seyfr-hero.png` - Main hero image for README
+- `screenshots/` - Application screenshots
+- `logos/` - Logo files and icons
+
+## Adding Assets
+When adding screenshots or images:
+1. Use descriptive filenames
+2. Optimize for web (reasonable file sizes)
+3. Include alt text in documentation
+4. Update README.md references as needed
