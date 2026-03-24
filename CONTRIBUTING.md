@@ -1,25 +1,25 @@
 # Contributing to Seyfr
 
-Thank you for your interest in contributing to Seyfr! We welcome contributions from the community.
+Thank you for your interest in contributing to Seyfr.
 
 ## How to Contribute
 
-### 🐛 Reporting Bugs
+### Reporting Bugs
 - Use the [Bug Report template](https://github.com/Jitpomi/seyfr-releases/issues/new?template=bug_report.md)
 - Include detailed steps to reproduce the issue
 - Provide system information and Seyfr version
 
-### 💡 Suggesting Features
+### Suggesting Features
 - Use the [Feature Request template](https://github.com/Jitpomi/seyfr-releases/issues/new?template=feature_request.md)
 - Explain the problem your feature would solve
 - Describe your proposed solution
 
-### 💬 Community Discussion
+### Community Discussion
 - Join our [Discussions](https://github.com/Jitpomi/seyfr-releases/discussions)
 - Ask questions, share ideas, and help other users
 - Provide feedback on new features and improvements
 
-### 💖 Supporting Development
+### Supporting Development
 - [Sponsor us on GitHub](https://github.com/sponsors/Jitpomi)
 - Share Seyfr with others who value privacy
 - Write reviews and testimonials
@@ -43,4 +43,4 @@ While this repository contains releases and community resources, the main Seyfr 
 - **Security**: security@jitpomi.com
 - **Discussions**: [GitHub Discussions](https://github.com/Jitpomi/seyfr-releases/discussions)
 
-Thank you for helping make Seyfr better! 🚀
+Thank you for helping make Seyfr better.

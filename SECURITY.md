@@ -16,12 +16,12 @@ Seyfr is built with security as a core principle:
 - **End-to-end encryption** - Files are encrypted before transmission
 - **No cloud storage** - Files never touch our servers
 - **Peer-to-peer** - Direct device-to-device transfers
-- **Open source** - Code is auditable and transparent
+- **Private source** - The source code is not publicly available
 
 ## Supported Versions
 
 | Version | Supported |
 |---------|-----------|
-| 0.1.x   | ✅ Yes    |
+| 0.1.x   | Yes       |
 
 We recommend always using the latest version for the best security.
