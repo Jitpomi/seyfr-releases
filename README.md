@@ -59,7 +59,7 @@ That's it! No accounts, no cloud storage, no complexity.
 
 ## 💖 Support Development
 
-Seyfr is developed by **JITPOMI**, a small team of two developers passionate about building privacy-first, open-source tools.
+Seyfr is developed by **JITPOMI**, a small team of two developers passionate about building privacy-first tools.
 
 **Your sponsorship helps us:**
 - 🔧 Add new features (mobile apps, sync folders, etc.)
@@ -86,7 +86,7 @@ Every contribution — big or small — helps keep privacy-first tools accessibl
 
 ## 📄 License
 
-Seyfr is open source software. The application binaries are freely available for download and use.
+Seyfr is free software. The application binaries are freely available for download and use, but the source code is not publicly available.
 
 ---
 
