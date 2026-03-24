@@ -76,7 +76,6 @@ Every contribution — big or small — helps keep privacy-first tools accessibl
 - **🎯 Active Development** - Regular updates and new features
 - **🔒 Privacy-First** - No data collection, no tracking
 - **🌍 Global Community** - Users worldwide trust Seyfr
-- **⭐ Open Source** - Transparent and auditable
 
 ## 📞 Support & Community
 
