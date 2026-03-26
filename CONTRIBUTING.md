@@ -20,7 +20,7 @@ Thank you for your interest in contributing to Seyfr.
 - Provide feedback on new features and improvements
 
 ### Supporting Development
-- [Sponsor us on GitHub](https://github.com/sponsors/Jitpomi)
+- [Sponsor us on GitHub](https://github.com/sponsors/Jitpomi?o=sd&sc=t)
 - Share Seyfr with others who value privacy
 - Write reviews and testimonials
 

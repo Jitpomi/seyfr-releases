@@ -5,8 +5,8 @@
 
 **Secure, peer-to-peer file sharing with end-to-end encryption**
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Jitpomi/seyfr/releases/latest)
-[![Sponsor](https://img.shields.io/badge/Sponsor-Sponsor%20Us-pink?style=for-the-badge)](https://github.com/sponsors/Jitpomi)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Jitpomi/seyfr-releases/releases/latest)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Sponsor%20Us-pink?style=for-the-badge)](https://github.com/sponsors/Jitpomi?o=sd&sc=t)
 [![Website](https://img.shields.io/badge/Website-Visit%20Website-green?style=for-the-badge)](https://seyfr.jitpomi.com)
 
 ![Seyfr Screenshot](assets/seyfr-hero.png)
@@ -33,17 +33,27 @@ Available for macOS (Apple Silicon & Intel), Windows, and Linux.
 
 | Platform | Download | Size |
 |----------|----------|------|
-| **macOS Apple Silicon** | [Download DMG](https://github.com/Jitpomi/seyfr/releases/download/v0.1.13/Seyfr_0.1.0_x64.dmg) | 36.2 MB |
-| **macOS Intel** | [Download DMG](https://github.com/Jitpomi/seyfr/releases/download/v0.1.13/Seyfr_0.1.0_x64.dmg) | 36.2 MB |
-| **Windows** | [Download EXE](https://github.com/Jitpomi/seyfr/releases/download/v0.1.13/seyfr.exe) | 68.1 MB |
-| **Linux** | [Download AppImage](https://github.com/Jitpomi/seyfr/releases/download/v0.1.13/Seyfr_0.1.0_amd64.AppImage) | 255 MB |
+| **macOS Apple Silicon** | [Download DMG](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/Seyfr_aarch64.dmg) | 36.2 MB |
+| **macOS Intel** | [Download DMG](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/Seyfr_x64.dmg) | 36.2 MB |
+| **Windows 64-bit** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/seyfr-x64.exe) | 68.1 MB |
+| **Windows 32-bit** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/seyfr-x86.exe) | 68.1 MB |
+| **WebView2 Runtime** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/MicrosoftEdgeWebview2Setup.exe) | 2 MB |
+| **Linux** | [Download AppImage](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/Seyfr_amd64.AppImage) | 255 MB |
 
-[**View All Releases**](https://github.com/Jitpomi/seyfr/releases) • [**Web Download Page**](https://seyfr.jitpomi.com)
+[**View All Releases**](https://github.com/Jitpomi/seyfr-releases/releases) • [**Web Download Page**](https://seyfr.jitpomi.com)
 
 ## Quick Start
 
+### Windows Installation
+1. **Download** the appropriate Windows version (64-bit or 32-bit)
+2. **Download** and run `MicrosoftEdgeWebview2Setup.exe` (required for Windows)
+3. **Run** `seyfr-x64.exe` or `seyfr-x86.exe`
+
+### macOS/Linux Installation
 1. **Download** Seyfr for your platform
 2. **Install** and launch the application
+
+### Using Seyfr
 3. **Choose** to send or receive files
 4. **Select** your files or folders
 5. **Share** the secure connection code with your recipient
@@ -67,7 +77,7 @@ Seyfr is developed by **JITPOMI**, a small team of two developers passionate abo
 - Fix bugs and enhance performance
 - Support the global privacy community
 
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-Sponsor%20on%20GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/Jitpomi)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-Sponsor%20on%20GitHub-pink?style=for-the-badge&logo=github)](https://github.com/sponsors/Jitpomi?o=sd&sc=t)
 
 Every contribution — big or small — helps keep privacy-first tools accessible to everyone.
 
@@ -92,6 +102,6 @@ Seyfr is free software. The application binaries are freely available for downlo
 
 <div align="center">
 
-[Website](https://seyfr.jitpomi.com) • [Sponsor](https://github.com/sponsors/Jitpomi) • [Download](https://github.com/Jitpomi/seyfr/releases)
+[Website](https://seyfr.jitpomi.com) • [Sponsor](https://github.com/sponsors/Jitpomi?o=sd&sc=t) • [Download](https://github.com/Jitpomi/seyfr-releases/releases)
 
 </div>
