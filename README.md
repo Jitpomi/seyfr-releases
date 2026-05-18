@@ -33,12 +33,13 @@ Available for macOS (Apple Silicon & Intel), Windows, and Linux.
 
 | Platform | Download | Size |
 |----------|----------|------|
-| **macOS Apple Silicon** | [Download DMG](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/Seyfr_aarch64.dmg) | 36.2 MB |
-| **macOS Intel** | [Download DMG](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/Seyfr_x64.dmg) | 36.2 MB |
-| **Windows 64-bit** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/seyfr-x64.exe) | 68.1 MB |
-| **Windows 32-bit** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/seyfr-x86.exe) | 68.1 MB |
-| **WebView2 Runtime** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/MicrosoftEdgeWebview2Setup.exe) | 2 MB |
-| **Linux** | [Download AppImage](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/Seyfr_amd64.AppImage) | 255 MB |
+| **macOS Apple Silicon** | [Download DMG](https://github.com/Jitpomi/seyfr-releases/releases/download/v0.1.23/Seyfr_aarch64.dmg) | 40.5 MB |
+| **macOS Intel** | [Download DMG](https://github.com/Jitpomi/seyfr-releases/releases/download/v0.1.23/Seyfr_x64.dmg) | 39.2 MB |
+| **Windows 64-bit** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/seyfr-x64.exe) | 232.8 MB |
+| **Windows 32-bit** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/download/v0.1.23/seyfr-x86.exe) | 68.7 MB |
+| **WebView2 Runtime** | [Download EXE](https://github.com/Jitpomi/seyfr-releases/releases/download/v0.1.23/MicrosoftEdgeWebview2Setup.exe) | 1.6 MB |
+| **Linux** | [Download AppImage](https://github.com/Jitpomi/seyfr-releases/releases/latest/download/Seyfr_amd64.AppImage) | 16.5 MB |
+| **Android (APK)** | [Download APK](https://github.com/Jitpomi/seyfr-releases/releases/download/v0.1.23/app-release.apk) | 292.4 MB |
 
 [**View All Releases**](https://github.com/Jitpomi/seyfr-releases/releases) • [**Web Download Page**](https://seyfr.jitpomi.com)
 
